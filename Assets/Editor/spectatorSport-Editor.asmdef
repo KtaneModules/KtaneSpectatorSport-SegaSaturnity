@@ -1,0 +1,10 @@
+{
+  "name": "spectatorSport-Editor",
+  "references": [
+    "spectatorSport"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": []
+}
